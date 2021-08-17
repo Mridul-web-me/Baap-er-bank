@@ -1,4 +1,4 @@
-document.getElementById('diposit-button').addEventListener('click', function(){
+/* document.getElementById('diposit-button').addEventListener('click', function(){
 // Diposit
     const dipositInputText = document.getElementById('deposit-input');
     const dipositAmount = dipositInputText.value;
@@ -47,4 +47,4 @@ document.getElementById('withdraw-button').addEventListener('click', function(){
 
     const balanceTotalAmount = balanceInputAmount - withdrawinputAmount;
     balanceInputText.innerText = balanceTotalAmount;
-})
+}) */
